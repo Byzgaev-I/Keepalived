@@ -16,3 +16,5 @@
 - Проверил текущую конфигурацию
 - Настроил интерфейс
 - Выставил приоритет 
+
+![Image alt][(https://github.com/Byzgaev-I/Keepalived/blob/main/Keepalive%201.png)https://github.com/Byzgaev-I/Keepalived/blob/main/Keepalive%201.png
