@@ -17,4 +17,4 @@
 - Настроил интерфейс
 - Выставил приоритет 
 
-![Image alt][(https://github.com/Byzgaev-I/Keepalived/blob/main/Keepalive%201.png)
+![Image alt][[(https://github.com/Byzgaev-I/Keepalived/blob/main/Keepalive%201.png?raw=true)
