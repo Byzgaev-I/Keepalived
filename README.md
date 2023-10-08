@@ -18,3 +18,6 @@
 - Выставил приоритет 
 
 ![Image alt](https://github.com/Byzgaev-I/Keepalived/blob/main/Keepalive%201.png)
+
+Схема решения 
+[Схема решения](https://github.com/Byzgaev-I/Keepalived/blob/main/1-hsrp_advanced_Netology.pkt)
