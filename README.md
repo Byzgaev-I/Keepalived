@@ -43,3 +43,35 @@ else
         exit 1
 fi
 ```
+![Image alt](https://github.com/Byzgaev-I/Keepalived/blob/main/BASH.png)
+
+Конфигурация keepalived
+
+### keepalived.conf
+```
+global_defs {
+    script_user root
+    enable_script_security
+}
+
+vrrp_script check_srv {
+    script "/etc/keepalived/keep_script.sh"
+    interval 3
+}
+
+vrrp_instance VI_1 {
+        state MASTER
+        interface enp0s3
+        virtual_router_id 15
+        priority 100
+        advert_int 1
+
+        virtual_ipaddress {
+                192.168.0.115/24
+        }
+        track_script {
+           check_nginx
+        }
+}
+```
+![Image alt](https://github.com/Byzgaev-I/Keepalived/blob/main/CONF.png)
