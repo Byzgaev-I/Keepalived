@@ -31,6 +31,15 @@
 
 ### Выполнения задания 2
 
+Создал две машины.
+Настроил веб-сервер.
+
+![Image alt](https://github.com/Byzgaev-I/Keepalived/blob/main/M%20-%20B.png)
+
+![Image alt](https://github.com/Byzgaev-I/Keepalived/blob/main/NGINX.png)
+
+
+
 bash-скрипт
 ### bash.sh
 ```bash
